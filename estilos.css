@@ -83,7 +83,7 @@ body {
 }
 
 .info-text h3 {
-    font-family: var(--font-script);
+    font-family: 'Avelire';
     font-size: 20px;
     margin-bottom: 18px;
     color: #333;
@@ -165,4 +165,9 @@ body {
 @font-face {
     font-family: Brocha;
     src: url('FNT/BORCHA\ regular.otf')
+}
+
+@font-face {
+    font-family: Avelire ;
+    src: url(FNT/AVELIRE.ttf);
 }
